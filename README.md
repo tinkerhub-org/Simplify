@@ -1,15 +1,25 @@
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Simplify
+A similar platform like [Snakify]( https://www.snakify.org) for students to learn different programming languages by reading doc and trying out code.
 ## How it Works ?
-Explaining the working of project
+The platform consists mainly of 4 parts.
+
+- A frontend
+- A Web server
+- Documentation on each language being taught.
+- A code execution server
+
+This repo includes both the frontend and Web Server.
+
 ## Libraries used
-Library Name - Version
+- Vue for frontend
+- Express for web server
+- Socket.io for client server communication
 ## How to configure
-Instructions for setting up project
+- TBD
 ## How to Run
-Instructions for running
+- TBD
 ## How to Test 
-Instructions for testing  
+- TBD 
 ## Contributors list
-1. Person Name - GitHub Id
-2. ...
+1. John Abraham - dravog7
+2. (add your name and github ID)
