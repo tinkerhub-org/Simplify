@@ -1,5 +1,14 @@
 # Simplify
-A similar platform like [Snakify]( https://www.snakify.org) for students to learn different programming languages by reading doc and trying out code.
+This project is a platform for learning code similar to [snakify](https://snakify.org) with the following features.
+
+* Support for multiple programming languages. Learning contents and code execution.
+
+* Free, open source and self hosted.
+
+* Clean UI that follows TinkerHub standards.
+
+* Editable learning content and tasks with engineering background
+
 ## How it Works ?
 The platform consists mainly of 4 parts.
 
@@ -11,9 +20,7 @@ The platform consists mainly of 4 parts.
 This repo includes both the frontend and Web Server.
 
 ## Libraries used
-- Vue for frontend
-- Express for web server
-- Socket.io for client server communication
+- TBD
 ## How to configure
 - TBD
 ## How to Run
@@ -21,5 +28,5 @@ This repo includes both the frontend and Web Server.
 ## How to Test 
 - TBD 
 ## Contributors list
-1. John Abraham - dravog7
-2. (add your name and github ID)
+1. John Abraham - [dravog7](https://github.com/dravog7)
+2. Gopikrishnan Sasikumar - [GopikrishnanSasikumar](https://github.com/GopikrishnanSasikumar)
